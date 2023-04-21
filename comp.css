@@ -1,0 +1,102 @@
+
+/*start navbar*/
+.navbar{
+    background-color: #f4511e;
+    font-family: "Roboto",sans-serif;
+    height: 56px;
+}
+.navbar .nav-link{
+    letter-spacing: 3px;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #f4511e !important;
+    background-color: #fff !important;
+}
+/*end navbar*/
+/*start landing*/
+.landing{
+    background-color: #f4511e;
+    height: 400px;
+}
+.landing .company{
+    letter-spacing: 3px;
+    line-height: 150%;
+    font-size:80px;
+    font-weight: normal;
+}
+.landing .bla{
+    letter-spacing: 3px;
+    line-height: 150%;
+    padding-bottom: 11px;
+}
+.btn{
+    background-color: #d9534f;
+    color: #fff;
+}
+/*end landing*/
+
+/*start about*/
+.about .about-c{
+    letter-spacing: -2px;
+}
+.about .about-p{
+    font-size: 20px;
+}
+
+.values{
+    background-color: #f6f6f6;
+}
+.values .earth{
+    color: #f4511e;
+    font-size: 200px;
+    padding-top: 25%;
+}
+/*end about*/
+/*services*/
+.services .p{
+    font-size: 50px;
+}
+/*end */
+
+
+/*start portofolio*/
+.portofolio{
+    background-color: #f6f6f6;
+}
+/*////////////*/
+
+/*start pricing*/
+.pricing .pricing-h{
+    background-color: #f4511e;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 0%;
+}
+.pricing .btn{
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    background-color: #f4511e;
+    color: #fff;
+}
+.pricing .border1{
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    width: 30%;
+}
+.pricing .test{
+    border-left:    1px solid #f4511e;
+    border-right:  1px solid #f4511e; 
+    border-bottom: 1px solid #f4511e;
+}
+ .hov :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+ /*end /////////////*/
+
+ /*start contact*/
+ .contact{
+    background-color: #f6f6f6;
+ }
